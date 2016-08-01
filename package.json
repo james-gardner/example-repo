@@ -1,0 +1,19 @@
+{
+  "name": "example-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/james-gardner/example-repo.git"
+  },
+  "author": "James Gardner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/james-gardner/example-repo/issues"
+  },
+  "homepage": "https://github.com/james-gardner/example-repo#readme"
+}
