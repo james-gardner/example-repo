@@ -1,1 +1,3 @@
 # example-repo
+
+Protected branch!
